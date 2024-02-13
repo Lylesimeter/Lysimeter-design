@@ -1,2 +1,2 @@
 Bare soil evaporation measurements were required for two small (1 square meter) test plots.  A small scale precision weighing lysimeters was designed to monitor water balance within the soil tank of the lysimeter, and to compute evaporation from the soil surface.  
-Two designs have been developed thus far; a double beam and a single beam lysimeter.  Details of the design, mechanical drawings, CNC G-code, datalogger code, and data interpretations via spreadsheet calculations will be included in the repository.
+Two designs have been developed thus far; a double beam (DB) and a single beam (SB) lysimeter.  Details of the design, mechanical drawings, CNC G-code, datalogger code, and data interpretations via spreadsheet calculations will be included in the repository.
